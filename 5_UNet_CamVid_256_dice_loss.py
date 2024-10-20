@@ -92,5 +92,31 @@ valid_iou
 plot_results
 plot_results
 
+train_loss
+valid_loss
+
+max_loss
+
+plot_results
+
+trained_model = 
+evaluate
+
+print
+print
+
+def inference
+
+_, valid_ds
+inference
+
+def dir_inference():
+
+dir_inference()
+
+
+
+
+
 
 
